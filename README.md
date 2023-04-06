@@ -1,15 +1,18 @@
-# LEX19
-makeMake exercise (part 2 of 2)
+# LEX18 and LEX19
+makeMake exercise
 
 ## IMPORTANT NOTE
-To receive credit for LEX19 you *must* add/commit/code your work to this repo.  You should copy your LEX18 code into this repo before you continue to work.  If you believe you finished the ```makeMake``` script for LEX18 you must still copy your work here so we can re-assess your work for LEX19.  Be sure you've done suitable testing of the script.  Remember, it has to create a correct makefile for all the C code in a directory, under the assumption that only one ```.c``` file will contain a definition of ```main``` function.  It is advisable to come up with additional test cases on your own, beyond the two that are provided already.
-
-The description below is the same as for LEX18 (with the exeption that there's a link to the LEX19 Feedback Form below).
+This is a two lab session LEX.  In the gradebook you will receive just one grade (for LEX19) but it will be weighted as much as two LEXes.  Be sure to  add/commit/code your work to this repo.  Be sure you've done suitable testing of the script.  Remember, it has to create a correct makefile for all the C code in a directory, under the assumption that only one ```.c``` file will contain a definition of ```main``` function.  It is advisable to come up with additional test cases on your own, beyond the two that are provided already.
 
 ## Overview
 This lab exercise is fairly open ended - it asks you to write a script to solve a given problem.  Demonstrate good development practices (advice: build and test incrementally) while writing the script, and add/commit/push frequently to the repo GitHub to capture your process.
 
-Note that this is part 1 of 2.  Complete as much as you can by the deadline for LEX18 (working approximate 2 hours).  You may not finish the entire BASH script.  LEX19 is part 2 of 2 of the makeMake exercise.  Between LEX18 and LEX19 you should plan to brush up on those aspects of writing either BASH scripts or makefiles that you found lacking.  Keep notes so you know what to review.
+Note that you will have two lab sessions to work on this LEX.
+
+While you are permitted to work on the LEX until the regular deadline after the second lab session, it is recommended that you do active work on the LEX only during the timeframe of the two lab sessions, and that you use the time in between to reflect on what you did and plan what you need to do in the second session.  For example, you should plan to brush up on those aspects of writing either BASH scripts or makefiles that you found lacking.  Keep notes so you know what to review.
+
+The rationale for this is that the Lab Practical Exam (LPR) will be split across two lab session as well, and for that you will NOT be permitted to touch the code between sessions.  Treating this LEX in the same way will help you prepare for the LPR.
+
 
 ### Helpful references
 
@@ -98,7 +101,5 @@ The generated makefile need not be exactly the same as the sample provided, but 
 ## Finishing up
 Before you wrap up, make sure you have
 1. **added/committed** your work to your **local repo**, and
-2. **pushed** everything in your local repo to your **remote GitHub repo**.
+2. **pushed** everything (including all branches) in your local repo to your **remote GitHub repo**.
 If you don't do this we cannot review your work and give you credit!
-
-After lab is finished fill in the [LEX 19 feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeZ7Tng3LHYfn2w_iz9MuW4zo4LU_g9bT5WbK6dN42rjMsOzA/viewform?usp=sf_link).
