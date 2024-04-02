@@ -34,7 +34,7 @@ In the 'testCase1' directory, you will find some C source code and a reference m
 
 In the 'testCase2' directory, you will find some slightly different C source code and a reference makefile (named 'ReferenceMakeFile') produced by my script.
 
-**Note: ** Your script must work for *any* directory with C code, as long as there is only one C source file defining a `main` function.
+**Note:** Your script must work for *any* directory with C code, as long as there is only one C source file defining a `main` function.
 
 ### Script usage
 The script must accept up to three command line arguments. If three are provided, they must be interpreted as the following:
